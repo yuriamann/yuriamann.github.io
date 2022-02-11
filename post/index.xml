@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Yuria Mann</title>
+    <link>https://yuriamann.github.io/post/</link>
+    <description>Recent content in Projects on Yuria Mann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://yuriamann.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yuria Project 1</title>
+      <link>https://yuriamann.github.io/post/project-1/</link>
+      <pubDate>Tue, 01 Feb 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://yuriamann.github.io/post/project-1/</guid>
+      <description>what is going on  Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Yuria Project 2</title>
+      <link>https://yuriamann.github.io/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://yuriamann.github.io/post/project-2/</guid>
+      <description>Yeth</description>
+    </item>
+    
+  </channel>
+</rss>

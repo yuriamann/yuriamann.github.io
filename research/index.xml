@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Yuria Mann</title>
+    <link>https://yuriamann.github.io/research/</link>
+    <description>Recent content in Research on Yuria Mann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://yuriamann.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yuria Research 1</title>
+      <link>https://yuriamann.github.io/research/research-1/</link>
+      <pubDate>Tue, 01 Feb 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://yuriamann.github.io/research/research-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
